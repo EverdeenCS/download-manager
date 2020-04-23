@@ -8,31 +8,31 @@
     "description": "Description du plug-in"
   },
   "settingsTitle": {
-    "message": "La mise en place",
+    "message": "Options",
     "description": "Cadre personnel"
   },
   "aboutTitle": {
-    "message": "En ce qui concerne",
+    "message": "A Propos",
     "description": "Quelques informations complémentaires sur les plugins"
   },
   "second": {
-    "message": "résiduelle{}sec",
-    "description": "Affichage du temps résiduel"
+    "message": "Reste {}sec",
+    "description": "Affichage du temps restant"
   },
   "minute": {
-    "message": "résiduelle{}min",
-    "description": "Affichage du temps résiduel"
+    "message": "Reste {}min",
+    "description": "Affichage du temps restant"
   },
   "hour": {
-    "message": "résiduelle{}hour",
-    "description": "Affichage du temps résiduel"
+    "message": "Reste {}hour",
+    "description": "Affichage du temps restant"
   },
   "day": {
-    "message": "résiduelle{}day",
-    "description": "Affichage du temps résiduel"
+    "message": "Reste {}day",
+    "description": "Affichage du temps restant"
   },
   "closeTooltip": {
-    "message": "Arrêtez d’afficher le message message",
+    "message": "Arrêtez d’afficher les popups",
     "description": "Lorsque la souris passe sur le bouton sur la page de gestion du téléchargement, arrêtez d’afficher la boîte de questions de texte"
   },
   "newDownload": {
@@ -40,7 +40,7 @@
     "description": "Nouveau fichier téléchargé"
   },
   "newDownloadPlaceholder": {
-    "message": "Entrez le lien de téléchargement! Enter Touches pour télécharger des fichiers",
+    "message": "Entrez le(s) lien(s) de téléchargement ! Tapez sur ENTRER pour télécharger des fichiers",
     "description": "Entrez le lien de téléchargement"
   },
   "clearList": {
@@ -48,39 +48,39 @@
     "description": "Vider la liste des fichiers téléchargés"
   },
   "openDownloadFolder": {
-    "message": "Ouvrir le fichier de téléchargement",
+    "message": "Ouvrir le dossier de téléchargement",
     "description": "Ouvrez le dossier de téléchargement dans l’explorateur"
   },
   "openSettings": {
-    "message": "Réglage des encrassements",
-    "description": "Ouvrez la configuration du plug-in dans la nouvelle tab"
+    "message": "Réglage des options",
+    "description": "Ouvrez la configuration du plug-in dans un nouvel obglet"
   },
   "openFileInFolder": {
     "message": "Ouverture d’un dossier",
     "description": "Ouvrez le fichier dans le dossier"
   },
   "pause": {
-    "message": "La suspension",
-    "description": "Suspension du téléchargement"
+    "message": "Pause",
+    "description": "Mise en pause du téléchargement"
   },
   "resume": {
-    "message": "Récupération du téléchargement",
-    "description": "Reprend les fichiers dont le téléchargement est suspendu"
+    "message": "Redémarrer le téléchargement",
+    "description": "Reprend les fichiers dont le téléchargement a été suspendu"
   },
   "delete": {
-    "message": "supprimé",
-    "description": "Effacer un fichier de la disquette"
+    "message": "Effacer",
+    "description": "Effacer un fichier du disque"
   },
   "retry": {
-    "message": "recommencer",
-    "description": "Nouveau téléchargement"
+    "message": "Ré-essayer",
+    "description": "Ré-essayer de télécharger le fichier"
   },
   "dangerDescription": {
     "message": "Ce fichier peut nuire à votre ordinateur",
     "description": "Ce fichier peut nuire à votre ordinateur"
   },
   "cancel": {
-    "message": "La suppression des",
+    "message": "Annuler le téléchargement",
     "description": "Annuler le téléchargement des fichiers dangereux"
   },
   "reserve": {
